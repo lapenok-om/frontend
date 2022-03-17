@@ -1,0 +1,15 @@
+body {
+	padding: 10px 100px;
+	text-align: left;
+	font-family: 'Balsamiq Sans', cursive;
+	background-color: #dce4e5;
+}
+.container {
+	max-width: 600px;
+    margin: 0 auto;
+    padding:10px 40px 20px 40px;
+    background-color: #f0f4f5;
+}
+h3, h1 {
+    text-align: center;
+}
